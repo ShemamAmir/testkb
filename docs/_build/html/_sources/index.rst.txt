@@ -9,7 +9,7 @@ Welcome to readthedocs_test's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-source/*
+
 
 
 Indices and tables
@@ -18,3 +18,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`sysadmin`
