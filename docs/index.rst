@@ -6,17 +6,18 @@
 Welcome to readthedocs_test's documentation!
 
 it is our test docs
+IT System Eng.
 ============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-source/*
+
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`Weekly Reports`
+* :ref:`Monthly Plans`
+* :ref:`Others`
