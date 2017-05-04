@@ -6,6 +6,7 @@
 Welcome to readthedocs_test's documentation!
 
 it is our test docs
+IT System Eng.
 ============================================
 
 .. toctree::
@@ -17,7 +18,13 @@ it is our test docs
 Indices and tables
 ==================
 
+<<<<<<< HEAD
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 * :ref:`sysadmin`
+=======
+* :ref:`Weekly Reports`
+* :ref:`Monthly Plans`
+* :ref:`Others`
+>>>>>>> d26eab4b870df17d8f2ed8140615ed402c66ad4f
